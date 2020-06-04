@@ -1,0 +1,9 @@
+﻿  eremenko.cpp
+c:\users\user\source\repos\eremenko\eremenko\eremenko.cpp(136): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\eremenko\eremenko\eremenko.cpp(162): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  1 of 222 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  eremenko.vcxproj -> C:\Users\User\source\repos\eremenko\Release\eremenko.exe

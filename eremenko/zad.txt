@@ -1,0 +1,2 @@
+code1251->866 in.txt out.txt
+code866->1251 in2.txt out2.txt
