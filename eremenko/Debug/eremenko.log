@@ -1,5 +1,4 @@
-﻿  pch.cpp
-  eremenko.cpp
-c:\users\user\source\repos\eremenko\eremenko\eremenko.cpp(73): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\user\source\repos\eremenko\eremenko\eremenko.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+﻿  eremenko.cpp
+c:\users\user\source\repos\eremenko\eremenko\eremenko.cpp(71): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\eremenko\eremenko\eremenko.cpp(98): warning C4018: <: несоответствие типов со знаком и без знака
   eremenko.vcxproj -> C:\Users\User\source\repos\eremenko\Debug\eremenko.exe
