@@ -33,12 +33,12 @@ code1251->866 in.txt out.txt
 code866->1251 in2.txt out2.txt
 ```
 + In the source files write lines in the correct systems. For example transcoding from 1251 to 866.
-### ![in](https://user-images.githubusercontent.com/55711116/83777987-c2b06e80-a692-11ea-9537-5b8bc04c71d4.jpg)
+### ![1](https://user-images.githubusercontent.com/55711116/83943389-5b1a3080-a804-11ea-9e8d-309b6b9786fa.jpg)
 + For example transcoding from 866 to 1251.
-### ![in2](https://user-images.githubusercontent.com/55711116/83777989-c3e19b80-a692-11ea-9dae-1dacde3ff3d5.jpg)
+### ![2](https://user-images.githubusercontent.com/55711116/83943390-5c4b5d80-a804-11ea-8903-23617940459e.jpg)
 + and the output files must also be in the correct encodings.
-### ![out](https://user-images.githubusercontent.com/55711116/83777991-c3e19b80-a692-11ea-9a6f-0020f417136f.jpg)
-### ![out2](https://user-images.githubusercontent.com/55711116/83777992-c47a3200-a692-11ea-83e5-f67dc062b03a.jpg)
+### ![3](https://user-images.githubusercontent.com/55711116/83943391-5c4b5d80-a804-11ea-8d93-405c3202c87c.jpg)
+### ![4](https://user-images.githubusercontent.com/55711116/83943392-5ce3f400-a804-11ea-9b9d-ae95f4656436.jpg)
 
 # Program algorithm development.
 + Check what is passed to the command line, if any
